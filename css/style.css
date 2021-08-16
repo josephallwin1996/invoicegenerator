@@ -1,0 +1,9 @@
+
+/* Adding  styles for the parent Div */
+.container-wrapper {
+	display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
